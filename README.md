@@ -10,7 +10,7 @@ If you have questions or suggestions, please feel free to open an issue. Please 
 ```
 @article{roy2021revisiting,
   title={Revisiting Deep Hyperspectral Feature Extraction Networks via Gradient Centralized Convolution},
-  author={Roy, Swalpa Kumar and Kar, Purbayan and Hong, Danfeng and Wu, Xin and Plaza, Antonio and Chanussot, Jocelyn},
+  author={Swalpa Kumar Roy, and Purbayan Kar, and Danfeng Hong, and Xin Wu, and Antonio Plaza, and Jocelyn Chanussot},
   journal={IEEE Transactions on Geoscience and Remote Sensing},
   year={2021},
   publisher={IEEE}
