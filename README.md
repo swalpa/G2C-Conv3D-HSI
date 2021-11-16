@@ -5,3 +5,14 @@ The hyperspectral images are composed of a variety of textures across the differ
 
 <img src="CDC.jpg"/>
 Figures: Gradient Centralized 3D Convolution
+
+If you have questions or suggestions, please feel free to open an issue. Please cite as:
+```
+@article{roy2021revisiting,
+  title={Revisiting Deep Hyperspectral Feature Extraction Networks via Gradient Centralized Convolution},
+  author={Roy, Swalpa Kumar and Kar, Purbayan and Hong, Danfeng and Wu, Xin and Plaza, Antonio and Chanussot, Jocelyn},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  year={2021},
+  publisher={IEEE}
+}
+```
