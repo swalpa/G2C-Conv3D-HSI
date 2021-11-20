@@ -18,4 +18,4 @@ If you have questions or suggestions, please feel free to open an issue. Please 
   publisher={IEEE}
 }
 ```
-You can get the dataset from our [HSI-Traditional-to-Deep-Models](https://github.com/AnkurDeria/HSI-Traditional-to-Deep-Models) repository(don't forget to give a star). Put the dataset folder in the root directory before running any of the notebooks. 
+
