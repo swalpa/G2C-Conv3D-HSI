@@ -19,3 +19,4 @@ If you have questions or suggestions, please feel free to open an issue. Please 
 }
 ```
 
+The dataset files need to be placed inside a folder in the root directory and named after the dataset itself. For example - "Houston/houston.mat" where Houston is the folder name and houston.mat is the HSI data file. 
