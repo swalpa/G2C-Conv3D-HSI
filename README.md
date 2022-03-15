@@ -7,7 +7,7 @@ The hyperspectral images are composed of a variety of textures across the differ
                               
 ### Datasets
 
-The dataset files need to be placed inside a folder in the root directory and the folder should have the same name as the dataset itself. For example - "Houston/houston.mat" where Houston is the folder name and houston.mat is the HSI data file. Similarly for the groundtruth file - "Houston/houston_gt.mat".
+The dataset files need to be placed inside a folder in the root directory and the folder should have the same name as the dataset itself. For example - "Houston/houston.mat" where Houston is the folder name and houston.mat is the HSI data file. Similarly for the groundtruth file - "Houston/houston_gt.mat". Then refer to these paths in the loadData function as shown with the Houston, Trento and MUUFL datasets.
 
 
 If you have questions or suggestions, please feel free to open an issue. Please cite as:
